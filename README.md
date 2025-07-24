@@ -8,6 +8,8 @@ Just find a local DTG (Direct to Garment) t-shirt printing vendor near you.
 Compare prices, shirt colors, materials, and sizes. For each customer order, 
 you can set your own profit margin between 10% to 30%.
 
+https://github.com/kukuhtw/designkaos/blob/main/Screenshot%202025-06-30%20140831.png
+
 You can upload:
 •	Your t-shirt design (artwork)
 •	A person’s photo (endorser or model wearing a plain t-shirt)
