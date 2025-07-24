@@ -22,7 +22,7 @@ return [
         'host'       => 'localhost',
         'dbname'     => 'designkaos',
         'user'       => 'root',
-        'password'   => '',
+        'password'   => 'password',
         'charset'    => 'utf8mb4',
     ],
     'logger' => [
