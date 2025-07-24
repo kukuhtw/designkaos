@@ -25,3 +25,6 @@ To use this application, you must:
 ________________________________________
 🚀 Installation Guide
 Follow these steps to set up your AI T-Shirt Design Application:
+
+
+check folder documentation
