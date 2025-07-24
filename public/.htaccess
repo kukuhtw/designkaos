@@ -1,0 +1,5 @@
+RewriteEngine On
+
+# Jika user mengakses /public atau /public/
+RewriteCond %{REQUEST_URI} ^/public/?$ [NC]
+RewriteRule ^$ login.php [L,R=302]

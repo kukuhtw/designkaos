@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /designkaos/
+
+# Jika URL adalah /designkaos tanpa tambahan path, redirect ke /designkaos/public/login.php
+RewriteCond %{REQUEST_URI} ^/designkaos/?$ [NC]
+RewriteRule ^$ public/login.php [L,R=302]
